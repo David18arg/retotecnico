@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/searchItemsFragment"
+        android:title="Buscar productos"
+        android:icon="@drawable/ic_all_items"
+        android:layout_marginEnd="22dp" />
+
+    <item android:id="@+id/savedItemsFragment"
+        android:title="Mis articulos"
+        android:icon="@drawable/ic_favorite"
+        android:layout_marginStart="22dp" />
+
+</menu>

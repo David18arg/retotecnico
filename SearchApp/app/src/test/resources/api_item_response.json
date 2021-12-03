@@ -1,0 +1,357 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": "asdafas",
+  "paging": {
+    "total": 1,
+    "primary_results": 0,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA1112932132",
+      "site_id": "MLA",
+      "title": "Plasticos Zanzb110r/125r Xenon Rojo Vini Brapp Motos",
+      "seller": {
+        "id": 749818414,
+        "permalink": "http://perfil.mercadolibre.com.ar/BRAPP+MOTOS",
+        "registration_date": "2021-04-26T14:14:58.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": null,
+          "level_id": "1_red",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0569,
+              "value": 7
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 0
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.1037,
+              "value": 11
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 105
+            }
+          },
+          "transactions": {
+            "canceled": 37,
+            "period": "historic",
+            "total": 311,
+            "ratings": {
+              "negative": 0.05,
+              "neutral": 0,
+              "positive": 0.95
+            },
+            "completed": 274
+          }
+        }
+      },
+      "price": 25000,
+      "prices": {
+        "id": "MLA1112932132",
+        "prices": [
+          {
+            "id": "1",
+            "type": "standard",
+            "amount": 25000,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2021-11-18T13:00:30Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-11-13T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-1112932132-plasticos-zanzb110r125r-xenon-rojo-vini-brapp-motos-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_649330-MLA48265259300_112021-O.jpg",
+      "thumbnail_id": "649330-MLA48265259300_112021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 3545.21,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ0xPTWMwNjk3",
+        "city_name": "Lomas de Zamora"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ0xPTWMwNjk3",
+          "name": "Lomas de Zamora"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "value_name": "VINI OEM PARTS",
+          "values": [
+            {
+              "source": 2860837171021627,
+              "id": null,
+              "name": "VINI OEM PARTS",
+              "struct": null
+            }
+          ],
+          "source": 2860837171021627,
+          "name": "Marca",
+          "value_id": null,
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627
+        },
+        {
+          "id": "UNITS_PER_PACKAGE",
+          "value_name": "14",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "14",
+              "struct": null,
+              "source": 2860837171021627,
+              "id": null
+            }
+          ],
+          "source": 2860837171021627,
+          "name": "Unidades por envase",
+          "value_id": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA61144",
+      "official_store_id": null,
+      "domain_id": "MLA-MOTORCYCLE_FAIRINGS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 1,
+      "use_thumbnail_id": false,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA61144",
+          "name": "Cachas",
+          "path_from_root": [
+            {
+              "id": "MLA5725",
+              "name": "Accesorios para Vehículos"
+            },
+            {
+              "id": "MLA1771",
+              "name": "Repuestos Motos y Cuatriciclos"
+            },
+            {
+              "id": "MLA377699",
+              "name": "Chasis"
+            },
+            {
+              "id": "MLA437281",
+              "name": "Plásticos de Motos"
+            },
+            {
+              "id": "MLA61144",
+              "name": "Cachas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [
+    {
+      "id": "state",
+      "name": "Ubicación",
+      "type": "text",
+      "values": [
+        {
+          "id": "TUxBUEdSQXJlMDNm",
+          "name": "Bs.As. G.B.A. Sur",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "Filtro por MercadoPago",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con MercadoPago",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "En cuotas",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Tipo de entrega",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Con envío",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Filtro por publicaciones con imágenes",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con fotos",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "shipping_cost",
+      "name": "Costo de envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "free",
+          "name": "Gratis",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "results": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": "MLA1112932132",
+  "site_id": "MLA",
+  "title": "Plasticos Zanzb110r/125r Xenon Rojo Vini Brapp Motos",
+  "subtitle": null,
+  "seller_id": 749818414,
+  "category_id": "MLA61144",
+  "official_store_id": null,
+  "price": 25000,
+  "base_price": 25000,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 2,
+  "available_quantity": 2,
+  "sold_quantity": 0,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230280",
+      "value_name": "Garantía del vendedor",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230280",
+          "name": "Garantía del vendedor",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "10 días",
+      "value_struct": {
+        "number": 10,
+        "unit": "días"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "10 días",
+          "struct": {
+            "number": 10,
+            "unit": "días"
+          }
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2021-11-18T13:00:30.000Z",
+  "stop_time": "2041-11-13T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1112932132-plasticos-zanzb110r125r-xenon-rojo-vini-brapp-motos-_JM",
+  "thumbnail_id": "649330-MLA48265259300_112021",
+  "thumbnail": "http://http2.mlstatic.com/D_649330-MLA48265259300_112021-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_649330-MLA48265259300_112021-I.jpg",
+  "pictures": [
+    {
+      "id": "649330-MLA48265259300_112021",
+      "url": "http://http2.mlstatic.com/D_649330-MLA48265259300_112021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_649330-MLA48265259300_112021-O.jpg",
+      "size": "500x195",
+      "max_size": "1200x469",
+      "quality": ""
+    },
+    {
+      "id": "894223-MLA48265316072_112021",
+      "url": "http://http2.mlstatic.com/D_894223-MLA48265316072_112021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_894223-MLA48265316072_112021-O.jpg",
+      "size": "500x224",
+      "max_size": "1257x565",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [
+    {
+      "id": "MLA1112932132-4896884191"
+    }
+  ],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "free_methods": [
+      {
+        "id": 73328,
+        "rule": {
+          "default": true,
+          "free_mode": "country",
+          "free_shipping_flag": true,
+          "value": null
+        }
+      }
+    ],
+    "tags": [
+      "self_service_out",
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "drop_off",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQ0xPTWMwNjk3",
+      "name": "Lomas de Zamora"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "city": {
+        "id": "TUxBQ0xPTWMwNjk3",
+        "name": "Lomas de Zamora"
+      },
+      "state": {
+        "id": "TUxBUEdSQXJlMDNm",
+        "name": "Bs.As. G.B.A. Sur"
+      }
+    },
+    "id": 1170865685
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": null,
+      "value_name": "VINI OEM PARTS",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "VINI OEM PARTS",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ORIGIN",
+      "name": "Origen",
+      "value_id": "96381",
+      "value_name": "China",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "96381",
+          "name": "China",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PART_NUMBER",
+      "name": "Número de pieza",
+      "value_id": null,
+      "value_name": "ASDAF",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "ASDAF",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "UNITS_PER_PACKAGE",
+      "name": "Unidades por envase",
+      "value_id": null,
+      "value_name": "14",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "14",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [
+    {
+      "id": 173921835368,
+      "price": 25000.00,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "51993",
+          "value_name": "Rojo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [],
+      "picture_ids": [
+        "649330-MLA48265259300_112021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173921835369,
+      "price": 25000.00,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "52049",
+          "value_name": "Negro",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [],
+      "picture_ids": [
+        "894223-MLA48265316072_112021"
+      ],
+      "catalog_product_id": null
+    }
+  ],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_picture",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía del vendedor: 10 días",
+  "catalog_product_id": null,
+  "domain_id": "MLA-MOTORCYCLE_FAIRINGS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2021-11-18T13:00:30.000Z",
+  "last_updated": "2021-12-03T12:35:03.044Z",
+  "health": 0.77,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace",
+    "mshops"
+  ]
+}
