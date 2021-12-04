@@ -5,17 +5,17 @@ usando la API de Mercado Libre.
 
 # Features
 
-1- Kotlin  
-2- MVVM design pattern 
-3- Dagger Hilt 
-3- Retrofit2  
-4- Glide  
-5- Navigation Components  
-6- Safe Args
-7- LiveData
-8- SharedPreferences
-9- RecyclerView  
-10- ViewBinding  
-11- Room Database  
-12- Coroutine
-13- UnitTest (JUnit, MockWebServer, Espresso)
+1- Kotlin  	
+2- MVVM design pattern 	
+3- Dagger Hilt 	
+4- Retrofit2  	
+5- Glide  	
+6- Navigation Components  	
+7- Safe Args	
+8- LiveData	
+9- SharedPreferences	
+10- RecyclerView  	
+11- ViewBinding  	
+12- Room Database  	
+13- Coroutine	
+14- UnitTest (JUnit, MockWebServer, Espresso)	
